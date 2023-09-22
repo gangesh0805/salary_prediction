@@ -30,7 +30,7 @@
 
 ## Feature Engineering
 • **Creating new features** from existing features e.g. **job_in_headquaters from (job_location, headquarters)**, etc.<br/>
-![jih](https://user-images.githubusercontent.com/71332138/136660172-918d13a3-2615-4d72-894e-3542845ef4cd.png)
+
 
 
 • Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**<br/>
